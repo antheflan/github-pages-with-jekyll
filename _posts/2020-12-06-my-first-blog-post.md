@@ -1,3 +1,7 @@
+---
+title: "Outline"
+date: 2020-12-05
+---
 Transportation Methods 
 (Metro, walking, bike share, Segway®, Uber®, Lyft®, taxi, pedicab, etc.)
 
